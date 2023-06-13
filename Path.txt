@@ -1,0 +1,3 @@
+Numpy and charts-   https://github.com/sudhanshu1322/num/tree/main
+
+pandas-  https://github.com/iNeuronai/pandas/tree/main
